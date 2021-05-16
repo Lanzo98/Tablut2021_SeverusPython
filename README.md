@@ -15,7 +15,7 @@ To run the player from the VM, in /tablut run:
 ```
 
 ## Authors
-Carlo Maria Conti
-Nicolò Bari
-Filippo Manfreda
+Carlo Maria Conti,
+Nicolò Bari,
+Filippo Manfreda,
 Davide Lanzoni
